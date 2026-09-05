@@ -1,0 +1,6 @@
+{
+  "name": "Aethelgard Controller",
+  "description": "Autonomous Financial Intelligence & Multi-Source Reconciliation platform with deterministic matching, live batch concordance engine, rule configuration, and immutable Merkle audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
