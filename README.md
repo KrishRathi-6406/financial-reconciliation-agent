@@ -288,6 +288,4 @@ Contributions are welcome. To contribute to this repository:
 
 For bug reports and feature requests, please open an issue with a clear description of the expected vs. actual behavior.
 
-## License
 
-License has not been specified yet.
