@@ -4,7 +4,9 @@
 
 A React single-page application that presents a complete front-end experience for deterministic multi-source financial reconciliation â€” ingesting ERP/clearing files, configuring field-level match rules, running a simulated live concordance pipeline, triaging penny-exact exceptions, and browsing an immutable audit history of batches.
 
-> Status: **UI / interaction prototype.** All data flows run entirely in the browser against seeded mock data. There is no backend, database, or third-party connection â€” reconciliation, hashing and reporting are simulated client-side (real client-side file parsing and SHA-256 hashing are implemented).
+## Access the Website : https://aethelgard-controller.vercel.app/
+
+<img width="959" height="505" alt="Image" src="https://github.com/user-attachments/assets/5b4843c1-4fee-4eea-8c3c-175216570c13" /> 
 
 ---
 
